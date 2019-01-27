@@ -1,0 +1,14 @@
+<form #f>
+<div>
+<div class="divname">Enter Name: </div>
+<input type="text" ngModel name="nam"  required #nam>
+</div>
+
+
+<section>
+  <button (click)="getLuckyNumber()" class="number-btn">Number Generator</button>
+<p>
+  lucky-number-gen is : {{ n }}
+</p>
+</section>
+</form>

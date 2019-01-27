@@ -1,0 +1,24 @@
+.number-btn {
+    background-color: yellowgreen;
+    color: coral;
+    margin-left: 87%;
+    margin-top: 1%;
+} 
+
+input {
+    margin-left: 86%;
+    margin-top: 1%;
+}
+
+p {
+    margin-left: 86%;  
+    background-color: blue;  
+    color: aqua;
+}
+
+
+div.divname {
+    margin-left: 78%;
+    background-color: red;
+    margin-top: 1%;
+}

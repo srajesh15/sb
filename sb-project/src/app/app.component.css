@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-image: url('../assets/SaiBABA.jpg');
+    height: 1000px;
+    background-size: cover;
+}
